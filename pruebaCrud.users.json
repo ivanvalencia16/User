@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "673bdcaff3fc4e44d6d1d410"
+  },
+  "name": "computador gamer",
+  "description": "torre, mouse y diadema",
+  "price": 0.63,
+  "category": "EQUIPOS PC ENSAMBLADOS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673bf436f3fc4e44d6d1d444"
+  },
+  "name": "consola",
+  "description": "2 controles",
+  "price": 0.33,
+  "category": "Otros",
+  "__v": 0
+}]
